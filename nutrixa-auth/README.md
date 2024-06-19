@@ -1,3 +1,8 @@
+# Clerk Authentication App
+
+## Usage
+
+Go to your https://clerk.com dashboard and click on `Developer->API Keys` to copy your keys. Create a file named `.env.local` and add the following:
 
 ```
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=YOUR KEY
